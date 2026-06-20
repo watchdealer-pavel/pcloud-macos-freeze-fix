@@ -1,0 +1,7 @@
+# Logs and diagnostic samples produced by the watchdog at runtime.
+# These can contain local paths and process details; never commit them.
+*.log
+*.sample.txt
+
+# macOS cruft
+.DS_Store
