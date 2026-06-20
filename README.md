@@ -3,8 +3,7 @@
 A tiny watchdog that babysits pCloud Drive on macOS so that when it locks up, it
 takes pCloud down with it instead of your whole Mac.
 
-<!-- Drop your hero image here once you have it: -->
-<!-- ![hero](docs/hero.png) -->
+![watchdog.sh chasing a fleeing pCloud off the beach](docs/hero.png)
 
 ## What this fixes
 
