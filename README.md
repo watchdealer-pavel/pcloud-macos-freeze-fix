@@ -60,8 +60,10 @@ release people are still rebooting to get their Macs back. At some point a
 "recurring stability fix" stops being a fix and starts being a confession.
 
 So, pCloud: here's a 100-line shell script that papers over your kernel bug. It
-took an afternoon. You're welcome. We'd much rather delete this repo because you
-moved off the kext. The offer stands.
+took ~~an afternoon~~ 6 minutes. You're welcome. We'd much rather delete this repo
+because you moved off the kext. The offer stands.
+
+And yeah, I know it's not a proper fix, but heck, it works.
 
 ## How it works
 
